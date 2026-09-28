@@ -1,0 +1,17 @@
+universidad:
+
+  nombre: Parquesoft
+  sede: Cali
+  ciudad: Cali
+
+sistema:
+
+  version: 1.0
+  administrador: Admin
+  idioma: Español
+
+base_datos:
+
+  motor: MySQL
+  servidor: AWS
+  puerto: 3306

@@ -1,0 +1,8 @@
+- nombre: Mouse
+  cantidad: 10
+  precio: 25000
+  categoria: Perifericos
+- nombre: Teclado
+  cantidad: 5
+  precio: 65000
+  categoria: Perifericos

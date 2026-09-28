@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<universidad>
+
+    <estudiante>
+        <codigo>1001</codigo>
+        <nombre>Ana</nombre>
+        <programa>Ingeniería de Sistemas</programa>
+        <semestre>8</semestre>
+        <correo>ana@correo.com</correo>
+    </estudiante>
+
+    <estudiante>
+        <codigo>1002</codigo>
+        <nombre>Carlos</nombre>
+        <programa>Administración</programa>
+        <semestre>5</semestre>
+        <correo>carlos@correo.com</correo>
+    </estudiante>
+
+    <estudiante>
+        <codigo>1003</codigo>
+        <nombre>Luisa</nombre>
+        <programa>Ingeniería de Sistemas</programa>
+        <semestre>9</semestre>
+        <correo>luisa@correo.com</correo>
+    </estudiante>
+
+    <estudiante>
+        <codigo>1004</codigo>
+        <nombre>Pedro</nombre>
+        <programa>Contaduría</programa>
+        <semestre>3</semestre>
+        <correo>pedro@correo.com</correo>
+    </estudiante>
+
+    <estudiante>
+        <codigo>1005</codigo>
+        <nombre>Sofia</nombre>
+        <programa>Ingeniería Industrial</programa>
+        <semestre>7</semestre>
+        <correo>sofia@correo.com</correo>
+    </estudiante>
+
+</universidad>

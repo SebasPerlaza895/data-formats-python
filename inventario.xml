@@ -1,0 +1,14 @@
+<inventario>
+    <producto>
+        <nombre>Mouse</nombre>
+        <cantidad>10</cantidad>
+        <precio>25000</precio>
+        <categoria>Perifericos</categoria>
+    </producto>
+    <producto>
+        <nombre>Mackbook</nombre>
+        <cantidad>3</cantidad>
+        <precio>4500000</precio>
+        <categoria>Computadores</categoria>
+    </producto>
+</inventario>
