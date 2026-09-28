@@ -59,5 +59,5 @@ Run the scripts from inside this folder so the relative data paths resolve.
 ## Author
 
 **Juan Sebastián Perlaza** — Data Analyst | SQL · Python · Power BI
-[LinkedIn](https://www.linkedin.com/in/juan-sebasti%C3%A1n-perlaza-967057366/) ·
+[LinkedIn](https://www.linkedin.com/in/sebastianperlaza) ·
 [GitHub](https://github.com/SebasPerlaza895)
